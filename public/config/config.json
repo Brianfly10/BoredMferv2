@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA507A82582D1B7a73BB09632B1277F48F7de643A",
+  "SCAN_LINK": "https://etherscan.io/address/0xa507a82582d1b7a73bb09632b1277f48f7de643a",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Bored Mfer",
+  "SYMBOL": "BMRR",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 42000000000000000,
+  "DISPLAY_COST": 0.042,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/BoredMferrugranch",
+  "SHOW_BACKGROUND": true
+}
